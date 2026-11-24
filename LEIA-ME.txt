@@ -1,2 +1,4 @@
 MDC Sanare — PWA V4
 Extraia os arquivos na raiz do repositório GitHub Pages existente. Acesse o endereço HTTPS, aguarde a indicação offline e use Instalar aplicativo. No iPhone, use Safari > Compartilhar > Adicionar à Tela de Início. Navegadores antigos podem oferecer apenas atalho ou acesso web. Preserve o endereço original e exporte backup antes de atualizar ou instalar; no iOS o armazenamento do app instalado pode ser separado do Safari. Compartilhamento e e-mail dependem da conexão e do sistema.
+
+V5: layout responsivo corrigido e assinatura Carlos França. Substitua todos os arquivos, incluindo sw.js. Exporte backup antes de atualizar.
